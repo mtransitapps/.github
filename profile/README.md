@@ -1,6 +1,6 @@
 # MonTransit for Android 🍁
 
-<img width="25%" height="25%" src="https://github.com/mtransitapps/mtransit-for-android/blob/master/src/main/play/listings/en-US/graphics/feature-graphic/1.png?raw=true"/>
+<img width="25%" height="25%" src="https://github.com/mtransitapps/mtransit-for-android/blob/master/app-android/src/main/play/listings/en-US/graphics/feature-graphic/1.png?raw=true"/>
 
 _Transit information in your pocket_
 
