@@ -4,10 +4,12 @@
 
 _Transit information in your pocket_
 
-_Bike, Bus, Subway, Train…_
+_Bike, Bus, Light Rail, Subway, Train…_
 
 _Offline & Real-Time_
 
-<a href="https://play.google.com/store/apps/details?id=org.mtransit.android"><img width="25%" height="25%" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/></a>
+<a href="https://play.google.com/store/apps/details?id=org.mtransit.android">
+  <img width="25%" height="25%" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/>
+</a>
 
 Visit the project wiki [here](https://github.com/mtransitapps/mtransit-for-android/wiki).
