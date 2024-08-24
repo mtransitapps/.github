@@ -12,4 +12,6 @@ _Offline & Real-Time_
   <img width="25%" height="25%" src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"/>
 </a>
 
+[![AppBrain](https://www.appbrain.com/shield/org.mtransit.android.svg)](https://www.appbrain.com/app/montransit/org.mtransit.android)
+
 Visit the project wiki [here](https://github.com/mtransitapps/mtransit-for-android/wiki).
